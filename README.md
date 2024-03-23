@@ -10,7 +10,7 @@
 💡 &nbsp;I'm a Computer Science Engineer who has spent 3+ years building scalable distributed systems for eCommerce and Tax application.\
 🎓 &nbsp;I'm an alumnus of [Sapthagiri College Of Engg ](https://www.sapthagiri.edu.in/). \
 🎓 &nbsp;I'm currently a postgraduate certification student studying Cloud Computing at the [Indian Institute Of Technology–Palakkad](https://iitpkd.ac.in/). \
-🛠 &nbsp;My last work project was building a Ecommerce Website for the Largest Quick Service Restaurant in UK. \
+🛠 &nbsp;My last work project was building LLM Projects. \
 🌱 &nbsp;Challenge me and i will buy you a coffee!.\
 🌱 &nbsp;Technology is the fine line between FUTURE and PAST .\
 ✉️ &nbsp;You can email me at ashwinrameshp@gmail.com.
