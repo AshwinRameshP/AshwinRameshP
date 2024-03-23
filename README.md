@@ -1,7 +1,7 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ashwin
 ![version :26.2.2023](https://img.shields.io/badge/version-26.02.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AshwinRameshP&color=red)&nbsp;
-[![GitHub kanmaytacker](https://img.shields.io/github/followers/kanmaytacker?label=follow&style=social)](https://github.com/AshwinRameshP)&nbsp;
+[![GitHub AshwinRameshP](https://img.shields.io/github/followers/AshwinRameshP?label=follow&style=social)](https://github.com/AshwinRameshP)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
