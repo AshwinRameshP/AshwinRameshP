@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Computer Science Engineer who has spent 2+ years building scalable distributed systems for eCommerce and Tax application.\
+💡 &nbsp;I'm a Computer Science Engineer who has spent 3+ years building scalable distributed systems for eCommerce and Tax application.\
 🎓 &nbsp;I'm an alumnus of [Sapthagiri College Of Engg ](https://www.sapthagiri.edu.in/). \
 🎓 &nbsp;I'm currently a postgraduate certification student studying Cloud Computing at the [Indian Institute Of Technology–Palakkad](https://iitpkd.ac.in/). \
 🛠 &nbsp;My last work project was building a Ecommerce Website for the Largest Quick Service Restaurant in UK. \
